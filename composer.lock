@@ -93,11 +93,11 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/phpspec.git",
-                "reference": "f3044160b0da29a67d99052615294434660f02d7"
+                "reference": "3bcf4e4ec83dc345d0fff7f22b0641a25403dcc9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/phpspec/zipball/c41c96dcadf2bcaacaa342a84e794254c5bb763a",
+                "url": "https://api.github.com/repos/phpspec/phpspec/zipball/9f72dd2ea9f860572b7ce7f229e043e667f34564",
                 "reference": "3bcf4e4ec83dc345d0fff7f22b0641a25403dcc9",
                 "shasum": ""
             },
@@ -112,7 +112,8 @@
             },
             "require-dev": {
                 "behat/behat": "~2.5",
-                "bossa/phpspec2-expect": "dev-master"
+                "bossa/phpspec2-expect": "dev-master",
+                "symfony/filesystem": "~2.1"
             },
             "suggest": {
                 "phpspec/nyan-formatters": "~1.0 – Adds Nyan formatters"
@@ -157,7 +158,7 @@
                 "testing",
                 "tests"
             ],
-            "time": "2014-02-21 11:03:16"
+            "time": "2013-05-19 10:19:57"
         },
         {
             "name": "phpspec/prophecy",
@@ -165,7 +166,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/prophecy.git",
-                "reference": "6bd3659919ae6472454aea07482200077293e75f"
+                "reference": "82d11835df7eccf904ea0c84fbb7304080346bc1"
             },
             "dist": {
                 "type": "zip",
@@ -215,7 +216,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2014-02-18 21:47:37"
+            "time": "2013-09-30 08:21:23"
         },
         {
             "name": "symfony/config",
@@ -544,12 +545,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Yaml.git",
-                "reference": "e49a47d60348665261f6e279ba383241deb73cab"
+                "reference": "6194137af5f12fbcfc0cb21e269f47542b8beb47"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Yaml/zipball/e49a47d60348665261f6e279ba383241deb73cab",
-                "reference": "e49a47d60348665261f6e279ba383241deb73cab",
+                "url": "https://api.github.com/repos/symfony/Yaml/zipball/6194137af5f12fbcfc0cb21e269f47542b8beb47",
+                "reference": "6194137af5f12fbcfc0cb21e269f47542b8beb47",
                 "shasum": ""
             },
             "require": {
@@ -584,7 +585,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "http://symfony.com",
-            "time": "2014-02-24 16:21:51"
+            "time": "2014-03-03 12:53:01"
         }
     ],
     "packages-dev": [
